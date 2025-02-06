@@ -13,7 +13,7 @@ This Tableau dashboard analyzes Amazon's sales data, tracking key KPIs like Tota
 - `Assign_2.twbx` - Tableau Workbook
 - `Amazon Sale Report.xlsx` - Sales dataset (public data)
 - `Tableau_Assignment_2.pdf` - Full documentation
-- `Amazon Dashboard - Images of the dashboard
+- `Amazon Sales Insights Dashboard` - Images of the dashboard
 
 ## 🚀 How to View the Dashboard
 1. Download the `Amazon_Sales_Dashboard.twbx` file.
